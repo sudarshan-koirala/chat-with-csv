@@ -34,4 +34,3 @@ def get_answer_csv(file: TextIO, query: str) -> str:
     #query = "whats the square root of the average age?"
     answer = agent.run(query)
     return answer
-``
