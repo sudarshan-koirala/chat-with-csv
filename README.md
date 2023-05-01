@@ -2,7 +2,7 @@
 This is a simple streamlit app where you can upload any csv file and get insights out of it.
 
 ## Setup 
-1. You need Python installed. If you don't have Python installed, [install if from this link](https://www.python.org/downloads/)
+1. You need Python installed. If you don't have Python installed, install if from this [link](https://www.python.org/downloads/)
 
 2. Clone the repository. 
 ```
